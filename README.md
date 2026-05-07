@@ -55,3 +55,5 @@ The default ETL keys are:
 - API Lambdas: `lambda/api/`
 - Database schema: `sql/schema.sql`
 - Frontend: `frontend/`
+
+<img width="1490" height="1439" alt="image" src="https://github.com/user-attachments/assets/3cc40141-cbb9-4c48-985e-cd79327740c2" />
