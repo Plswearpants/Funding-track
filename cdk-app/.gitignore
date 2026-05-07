@@ -1,0 +1,27 @@
+.DS_Store
+
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build outputs
+dist/
+frontend/dist/
+cdk.out/
+
+# CDK/local deploy artifacts
+cdk.context.json
+*.log
+
+# Local invocation outputs
+response*.json
+
+# Environment and credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Raw data is kept outside the app or uploaded to S3
+data/**/*.csv
+data/**/*.xlsx
